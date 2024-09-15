@@ -22,4 +22,8 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
 
+Tech Used:
 
+HTML
+CSS
+Javascript
